@@ -8,7 +8,7 @@
   I love to draw, watch basketball, and follow the stock market. At home, I have two cats named Gritty and Blitty.
   <br><br>
   <a href='./Gary_Li_Resume.pdf'>Resume</a>
-  <br><br><br>
+  <br><br>
   <a href='https://www.linkedin.com/in/garyli1/'>
     <img src='./linkedin.svg' alt='LinkedIn' width='40'>
   </a>
