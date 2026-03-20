@@ -6,4 +6,6 @@
   Currently, I'm working on building full stack web applications. In the near future, I want to work on training AI models.
   <br><br>
   I love to draw, watch basketball, and follow the stock market. At home, I have two cats named Gritty and Blitty.
+  <br><br>
+  <a href='./Gary_Li_Resume.pdf'>Resume</a>
 </p>
