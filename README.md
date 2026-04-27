@@ -1,11 +1,11 @@
-<h1 align='center'>Hey there! I'm Gary</h1>
+<h1 align='center'>Hi! I'm Gary</h1>
 
 <p align='center'>
   I'm a Computer Science and Mathematics student at the University of Maryland, College Park.
   <br><br>
   Currently, I'm building full stack web applications and learning how to train AI models.
   <br><br>
-  I love watching basketball and following the stock market. At home, I have two cats named Gritty and Blitty.
+  In my free time, I love to watch basketball, follow the stock market, and play a wide variety of sports. At home, I have two cats named Gritty and Blitty.
   <br><br>
   <a href='./Gary_Li_Resume.pdf'>Resume</a>
   <br><br>
