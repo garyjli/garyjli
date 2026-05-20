@@ -5,7 +5,9 @@
   <br><br>
   Currently, I'm building full stack web applications and learning how to train AI models.
   <br><br>
-  I love to watch basketball, follow the stock market, and play a wide variety of sports. At home, I have two cats named Gritty and Blitty.
+  I love to watch basketball, follow the stock market, and play a wide variety of sports.
+  <br><br>
+  I also have two super cool and chill cats at home named Gritty and Blitty.
   <br><br>
   <a href='./Gary_Li_Resume.pdf'>Resume</a>
   <br><br>
