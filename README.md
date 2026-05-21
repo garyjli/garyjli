@@ -7,7 +7,7 @@
   <br><br>
   I love to watch basketball, follow the stock market, and play a wide variety of sports.
   <br><br>
-  I also have two extremely chill cats at home named Gritty and Blitty 🐈
+  I also have two cats at home named Gritty and Blitty 🐈
   <br><br>
   <a href='./Gary_Li_Resume.pdf'>Resume</a>
   <br><br>
