@@ -1,4 +1,4 @@
-<h1 align='center'>Hi! 👋&nbsp;&nbsp;&nbsp;I'm Gary</h1>
+<h1 align='center'>Hi! 👋&nbsp;&nbsp;I'm Gary</h1>
 
 <p align='center'>
   I'm a Computer Science and Mathematics student at the University of Maryland, College Park.
