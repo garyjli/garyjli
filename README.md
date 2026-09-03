@@ -1,13 +1,13 @@
-<h1 align='center'>Hi! 👋&nbsp;&nbsp;I'm Gary</h1>
+<h2 align='center'>Hi! I'm Gary</h2>
 
 <p align='center'>
-  I'm a Computer Science and Mathematics student at the University of Maryland, College Park.
+  I'm a senior at the University of Maryland - College Park, studying Computer Science and Mathematics.
   <br><br>
-  Currently, I'm building full stack web applications and learning how to train AI models.
+  I'm currently building full-stack web applications and working with LLMs.
   <br><br>
-  I love to watch basketball, follow the stock market, and play a wide variety of sports.
+  Some of my hobbies include watching basketball, cooking, and playing a variety of racket sports.
   <br><br>
-  I also have two cats at home named Gritty and Blitty 🐈
+  Feel free to connect with me on LinkedIn!
   <br><br>
   <a href='https://www.linkedin.com/in/garyli1/'>
     <img src='./linkedin.svg' alt='LinkedIn' width='40'>
